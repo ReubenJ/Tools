@@ -1,3 +1,4 @@
+# Goes through all listed directories and prints out their 'git status'
 DIRECTORIES = one_directory another_directory yet_another
 
 DIV = "======================================================"
